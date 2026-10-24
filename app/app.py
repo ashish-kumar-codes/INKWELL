@@ -107,6 +107,7 @@ def predict():
 
     return jsonify({"predictions": results})
 
+import os
 
 import os
 
